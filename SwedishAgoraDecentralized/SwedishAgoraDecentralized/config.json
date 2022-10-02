@@ -1,0 +1,9 @@
+{
+  "FileDistributionOptions": {
+    "RecieveAddress": "",
+    "DirectoryOptions": {
+      "RootPaths": [],
+      "IncludeSubDirectories": true
+    }
+  }
+}
