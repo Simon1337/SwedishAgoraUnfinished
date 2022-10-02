@@ -1,0 +1,6 @@
+{
+  "BackupPath": "C:\\backup.sql",
+  "ConnectionString": "server=localhost;user=root;pwd=root;database=swedish_agora;",
+  "PrefferedCurrencySymbol": "BTC",
+  "RecieveAddress": ""
+}

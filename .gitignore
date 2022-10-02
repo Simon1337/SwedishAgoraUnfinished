@@ -1,0 +1,8 @@
+﻿*.dll
+*.pdb
+*.exe
+*.cache
+SwedishAgora/SwedishAgora/obj
+SwedishAgora/SwedishAgora/bin
+SwedishAgoraDecentralized/SwedishAgoraDecentralized/obj
+SwedishAgoraDecentralized/SwedishAgoraDecentralized/bin
